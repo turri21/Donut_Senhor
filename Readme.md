@@ -1,3 +1,8 @@
+-=(Donut_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # Tiny Tapeout Verilog Project - VGA donut
